@@ -11,3 +11,4 @@
 6. A yello "Reset" button will give a chance to play another game.
 
 ## Screen Shot Image
+![Screen Shot 2021-02-10 at 5 25 44 PM](https://user-images.githubusercontent.com/75402947/107580757-0b76da80-6bc5-11eb-9aa4-66dabef0ae16.png)
